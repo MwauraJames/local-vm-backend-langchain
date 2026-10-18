@@ -1,8 +1,6 @@
 """Model Initialization File
 
-Configures the LLM model used throughout the course.
-
-Default: Anthropic claude-haiku-4-5 (fast, cheap, great for learning).
+Configures the LLM model.
 
 ═══════════════════════════════════════════════════════════════════════════
   ⚠  IMPORTANT: install the matching extra BEFORE swapping providers
